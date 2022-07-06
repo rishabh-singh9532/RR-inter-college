@@ -1,0 +1,26 @@
+#first{
+    height: 550px;
+    opacity: 0.75;
+}
+#second{
+    height: 550px;
+    opacity: 0.75;
+}
+#third{
+    height: 550px;
+    opacity: 0.75;
+}
+.rishi{
+    color: black;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.rishii{
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.r{
+    font-weight: bolder;
+    color: rgb(255, 0, 0);
+}
